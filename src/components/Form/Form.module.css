@@ -16,6 +16,10 @@
     border-radius: 1rem;
 }
 
+.form option {
+    color: black;
+}
+
 .field ::placeholder {
     color: var(--white);
 }
